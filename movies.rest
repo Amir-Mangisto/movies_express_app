@@ -1,1 +1,25 @@
-GET http://localhost:9000/1
+# GET http://localhost:9000
+
+# POST http://localhost:9000
+
+# Content-Type: "application/json"
+
+# {
+#     "movie":{
+#          "id": 6,
+#        "name": "asas",
+#        "year": 2010,
+#        "rating": 10
+#     }
+# }
+
+
+# PUT http://localhost:9000/5
+# Content-Type: "application/json"
+
+# {
+#      "id": 5,
+#         "name": "asas",
+#         "year": 2010,
+#         "rating": 10
+# }
